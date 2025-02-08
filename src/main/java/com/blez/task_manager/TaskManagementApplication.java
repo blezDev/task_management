@@ -1,4 +1,4 @@
-package com.blez.task_manager;
+package com.blez. ;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
